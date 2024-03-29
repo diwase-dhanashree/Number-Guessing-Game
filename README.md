@@ -13,7 +13,7 @@ Welcome to the Number Guessing Game repository! This project is a simple game bu
 
 ## How to Play
 
-Ready to test your guessing skills? [Click Here](file:///C:/Users/dhana/OneDrive/Documents/Guessing%20Game/index.html) to jump right into the game and start playing! Alternatively, you can find the link in the project description for easy access. Let the fun begin!
+Ready to test your guessing skills? [click here](file:///C:/Users/dhana/OneDrive/Documents/Guessing%20Game/index.html) to jump right into the game and start playing! Alternatively, you can find the link in the project description for easy access. Let the fun begin!
 
 ## Folder Structure
 
