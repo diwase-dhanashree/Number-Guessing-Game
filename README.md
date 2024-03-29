@@ -13,13 +13,7 @@ Welcome to the Number Guessing Game repository! This project is a simple game bu
 
 ## How to Play
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
-   
-Open the index.html file in your preferred web browser.
-Enter your guess in the input field and click the "Submit" button.
-Follow the on-screen messages to adjust your guess within the given attempts.
+Ready to test your guessing skills? [Click Here](file:///C:/Users/dhana/OneDrive/Documents/Guessing%20Game/index.html) to jump right into the game and start playing! Alternatively, you can find the link in the project description for easy access. Let the fun begin!
 
 ## Folder Structure
 
